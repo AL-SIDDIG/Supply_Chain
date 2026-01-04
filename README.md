@@ -2,7 +2,7 @@
 
 SQL • Power BI • Data Analytics
 
-![Dashboard](powerBi/assets/overview.png)
+![Dashboard](./PowerBi/assets/overview.png)
 
 [_View full Dashboard on PwerBI Service_](https://app.powerbi.com/groups/me/reports/6738a7d8-b1ca-4afc-a73e-fde5eceb25fe/598c3af910ae4d66c115?experience=power-bi)
 
